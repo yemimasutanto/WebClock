@@ -1,0 +1,22 @@
+{
+  "name": "webclock",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yemimasutanto/dicoding-front-end-course.git"
+  },
+  "keywords": [
+    "WebClock"
+  ],
+  "author": "yemimasutanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yemimasutanto/dicoding-front-end-course/issues"
+  },
+  "homepage": "https://github.com/yemimasutanto/dicoding-front-end-course#readme"
+}
